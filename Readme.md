@@ -2,10 +2,10 @@
 #### I am Frontend Developer & UX/UI Designer
 Entrepreneur, curious, self-taught, creative, in constant search of new challenges and dreams.
 
-Skills: REACT / JS / HTML / CSS / GIT/ GITHUB/ FIGMA
+Skills: JS / HTML / CSS / GIT/ GITHUB/ FIGMA
 
-- 🔭 I’m currently working on my onw portfolio 
-- 🌱 I’m currently learning React, Typescript, Python & English 
+- 🔭 I’m currently working on my own portfolio 
+- 🌱 I’m currently learning Python, GDScript, Desing Systems, Orquestatoin of IAs & English 
 - 📫 How to reach me: Gabrielsotto90@gmail.com 
 
 
