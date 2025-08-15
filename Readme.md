@@ -5,7 +5,7 @@ Entrepreneur, curious, self-taught, creative, in constant search of new challeng
 Skills: JS / HTML / CSS / GIT/ GITHUB/ FIGMA
 
 - 🔭 I’m currently working on my own portfolio 
-- 🌱 I’m currently learning Python, GDScript, Desing Systems, Orquestatoin of IAs & English 
+- 🌱 I’m currently learning Python, GDScript, Desing Systems, Orquestation of IAs, Development MCPs & English 
 - 📫 How to reach me: Gabrielsotto90@gmail.com 
 
 
